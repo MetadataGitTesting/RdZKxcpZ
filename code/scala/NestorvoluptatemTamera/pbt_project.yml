@@ -1,0 +1,62 @@
+name: nadia.emmerich
+description: Function-based
+version: 0.0.1
+author: 8fjzmcrl.c6ufd12g@6nqpj0ob.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: nadiaemmerich
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:07:34'
+pipelines:
+  pipelines/Ms__Neville_SchinnerPhil_RuppShery_Marvin:
+    name: Ms__Neville_SchinnerPhil_RuppShery_Marvin
+    description: null
+    author: 8fjzmcrl.c6ufd12g@6nqpj0ob.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2024-11-22 23:07:34'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:07:34'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:07:34.738949Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1198085395'
+  createdAt: '2024-11-22T23:07:34.738949Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
